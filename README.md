@@ -1,2 +1,3 @@
 # hello-world
-test repo
+
+This is the new message from God. Repent.
